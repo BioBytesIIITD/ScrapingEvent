@@ -1,0 +1,5 @@
+2177, Comparison of Weekly Covid-19 Deaths Per Million Population in Fully Vaccinated, Partially Vaccinated and Non Vaccinated Population
+2174, Comparison of Weekly Covid19 Deaths Per Million Population in Fully Vaccinated, Partially Vaccinated and Non Vaccinated Population (60 years and above)
+2175, Comparison of Weekly Covid19 Deaths Per Million Population in Fully Vaccinated, Partially Vaccinated and Non Vaccinated Population (45 - 59 years)
+2176, Comparison of Weekly Covid19 Deaths Per Million Population in Fully Vaccinated, Partially Vaccinated and Non Vaccinated Population (18 - 44 years)
+2171, Covid 19 Vaccine Coverage in the Adult Population

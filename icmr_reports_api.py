@@ -65,4 +65,8 @@ def scrape_cards(cards):
         print()
 
 cards = get_cards()
-scrape_cards(cards)
+with open('keys.txt','w') as file:
+    for card in cards:
+        file.write(f"{card[0]}, {card[1]}\n")
+print(cards)
+# scrape_cards(cards)

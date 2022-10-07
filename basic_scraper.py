@@ -26,5 +26,6 @@ for tdiv, idiv in zip(div_title_info, div_image_info):
     ls.append(min_ls)
 
 print(ls)
+
 df = pd.DataFrame(ls, columns=["Link", "Title", "Image"])
 df.to_csv("asura_scans.csv", index=False)
